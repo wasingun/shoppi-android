@@ -19,7 +19,7 @@ class HomeFragment: Fragment() {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        val button = view.findViewById<Button>(R.id.btn_enter_priduct_detail)
+        val button = view.findViewById<Button>(R.id.btn_enter_product_detail)
         button.setOnClickListener {
             val transaction = parentFragmentManager.beginTransaction()
             transaction.add(R.id.container_main, ProductDetailFragment())
