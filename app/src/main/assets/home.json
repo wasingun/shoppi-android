@@ -1,11 +1,12 @@
+
 {
   "title": {
     "text": "wasingun님, 이런 상품 어때요?",
-    "icon_url": ""
+    "icon_url": "https://user-images.githubusercontent.com/121553658/220118082-a5c125f8-fa8e-4b05-9463-8959a933bdc9.png"
   },
   "top_banners": [
     {
-      "background_image_url": "",
+      "background_image_url": "https://user-images.githubusercontent.com/121553658/220118240-b2fbe4ce-9d57-46ff-95ab-e2c73cca3f26.png",
       "badge": {
         "label": "기획전",
         "background_color": "#52514d"
@@ -16,12 +17,12 @@
         "label": "캐시미어 100% 터틀넥 스웨터",
         "discount_rate": 9,
         "price": 102000,
-        "thumbnail_image_url": "",
+        "thumbnail_image_url": "https://user-images.githubusercontent.com/121553658/220118252-f2f6bf56-7077-42c1-8898-de3fe8b378b9.png",
         "product_id":"FW-twg-sweater-1"
       }
     },
     {
-      "background_image_url": "",
+      "background_image_url": "https://user-images.githubusercontent.com/121553658/220118246-685a82ed-fe57-4e90-b85a-b2e5df6c8188.png",
       "badge": {
         "label": "기획전",
         "background_color": "#967a6d"
@@ -32,7 +33,7 @@
         "label": "슬림 데스트 800",
         "discount_rate": 16,
         "price": 160000,
-        "thumbnail_image_url": "",
+        "thumbnail_image_url": "https://user-images.githubusercontent.com/121553658/220118251-a90d9a75-29c3-4d23-b2a7-fc8a28eae8b8.png",
         "product_id":"desk-1"
       }
     }

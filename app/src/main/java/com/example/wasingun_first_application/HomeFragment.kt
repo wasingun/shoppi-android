@@ -1,6 +1,7 @@
 package com.example.wasingun_first_application
 
 import android.os.Bundle
+import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -25,5 +26,9 @@ class HomeFragment: Fragment() {
             transaction.add(R.id.container_main, ProductDetailFragment())
             transaction.commit()
         }
+
+        val assetLoader = AssetLoader()
+        val homeData = assetLoader.getJsonString(requireContext(), "home.json")
+        Log.d("homeData", homeData?:"")
     }
 }
